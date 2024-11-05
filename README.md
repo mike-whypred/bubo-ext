@@ -60,7 +60,10 @@ git clone https://github.com/yourusername/ai-screenshot-chat.git
 
 1. Ask anything you want about the contents of webpage including tables, images and text
 2. Ask to extract data from the page and summarize into JSON
-3. Download JSON
+
+![Screenshot with API](assets/screenshot_json.png)
+
+4. Download JSON
 
 ### Example Questions
 - "What is the main topic of this article?"
