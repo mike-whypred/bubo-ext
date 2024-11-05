@@ -17,7 +17,6 @@ A Chrome extension that allows you to chat with any webpage in your Chrome brows
 
 
 
-
 ### From Chrome Web Store
 1. [Coming soon to Chrome Web Store]
 
@@ -37,7 +36,7 @@ A Chrome extension that allows you to chat with any webpage in your Chrome brows
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/ai-screenshot-chat.git
+git clone https://github.com/mike-whypred/bubo-ext.git
 ```
 2. Open Chrome and navigate to `chrome://extensions/`
 3. Enable "Developer mode" in the top-right corner
