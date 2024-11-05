@@ -89,7 +89,13 @@ git clone https://github.com/yourusername/ai-screenshot-chat.git
 - API keys are encrypted before storage
 - Uses Chrome's secure storage APIs
 - No data is stored on external servers
+
+## Privacy Policy 📜
+
+- This extension does not collect any personal data
 - All processing happens locally
+- Screenshots are only used for AI analysis and sent to OpenAI and are not stored by extension
+- No analytics or tracking is implemented
 
 ### Prerequisites
 - Chrome browser
