@@ -49,9 +49,9 @@ git clone https://github.com/yourusername/ai-screenshot-chat.git
 1. Get an OpenAI API key from [OpenAI's platform](https://platform.openai.com/)
 2. Click the extension icon in your Chrome toolbar 🦉
 3. Enter your OpenAI API key when prompted
-   ![Screenshot with API](assets/screenshot_apikey.png)
+![Screenshot with API](assets/screenshot_apikey.png)
 4. Start chatting about any webpage!
-   ![Screenshot with Chat](assets/screenshot_chat.png)
+![Screenshot with Chat](assets/screenshot_chat.png)
    
 ## Usage 💡
 
